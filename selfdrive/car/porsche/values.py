@@ -61,7 +61,7 @@ FW_VERSIONS = {
 STEER_THRESHOLD = 100
 
 DBC = {
-  CAR.NINE4x4: dbc_dict("porsche_can", "porsche_adas"),
+  CAR.NINE4x4: dbc_dict("porsche_94x4", "porsche_adas"),
 }
 
 # no resume button press required
