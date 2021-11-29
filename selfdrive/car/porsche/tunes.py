@@ -58,7 +58,7 @@ def set_long_tune(tune, name):
 
 ###### LAT ######
 def set_lat_tune(tune, name):
-  if name == LatTunes.INDI_PRIUS:
+  if name == LatTunes.NINE4x4:
     tune.init('indi')
     tune.indi.innerLoopGainBP = [0.]
     tune.indi.innerLoopGainV = [4.0]
